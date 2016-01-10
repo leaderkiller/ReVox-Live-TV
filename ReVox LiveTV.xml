@@ -1,3 +1,4 @@
 #EXTM3U 
 #EXTINF:-1, SKY SPORTS 1 UK HD
-rtmp://185.63.255.18:80/live=playpath=sky1me =swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf =pageUrl=http://rocktv.co/embedu.php?live=sky1me&vw=620&vh=400
+rtmp://80.82.78.29/live playpath=mys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=true
+
