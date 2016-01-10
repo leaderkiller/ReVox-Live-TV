@@ -3,3 +3,5 @@
 rtmp://80.82.70.194/live/ playpath=s1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=s1&vw=700&vh=480 live=true
 #EXTINF:-1, Cartoon Network
 rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_OWw0MWZjcjFzZ21jbGVqfDE0NTI1MTAxMzd8ODYuNDYuMTk2LjgwfDU2OTJlMmY5NWI3ZDJ8ZmViNjZhMmE4ZTI2ZjFmZjA1NmRkYzE5YmY3YzlkYTc1MDk0YjFkZQ.. playpath=9l41fcr1sgmclej swfUrl=http://www.streamlive.to/ads/streamlive.swf  pageUrl=http://www.streamlive.to/view/71632/Cartoon%20Networklive-stream-channel live=true
+#EXTINF:-1, BT SPORTS 1 UK HD
+rtmp://46.28.55.170:80/live playpath=bt1me swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://rocktv.co/embedu.php?live=bt1me&vw=700&vh=480 live=true
