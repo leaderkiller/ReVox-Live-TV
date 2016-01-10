@@ -1,8 +1,9 @@
 #EXTM3U 
 #EXTINF:-1, SKY SPORTS 1
-http://live.pushpublish.tv/mylive/vskys1/playlist.m3u8
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_OWw0MWZjcjFzZ21jbGVqfDE0NTI1NDg2MTl8ODYuNDYuMTk2LjgwfDU2OTJkMDhiNTU5ZmN8ZjQyMmIwMWRlNjJiYzNmMjMyM2YwNjhjMmExYTViOTQ4MjEwOGVkYQ..=playpath=9l41fcr1sgmclej =swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf =pageUrl=http://www.streamlive.to/embedplayer_new2.php?width=700&height=480&channel=71632&autoplay=true
+
 #EXTINF:-1, SKY SPORTS 2
-http://st.chatango.com/cfg/nc/r.json?a198960020000087899595365
+http://live.pushpublish.tv/mylive/vskys2/playlist.m3u8
 #EXTINF:-1, SKY SPORTS 3
 http://live.pushpublish.tv/mylive/vskys3/playlist.m3u8
 #EXTINF:-1, SKY SPORTS 4
