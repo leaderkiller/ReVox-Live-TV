@@ -11,6 +11,6 @@ http://live.pushpublish.tv/mylive/vskys4/playlist.m3u8
 #EXTINF:-1, SKY SPORTS 5
 http://live.pushpublish.tv/mylive/vskys5/playlist.m3u8
 #EXTINF:-1, BT Sport 1
-rtmp://62.210.247.103:1935/Edge/2589?token=a3bdf0f64cb891c2798ab724e5495239&bid=1&pid=2&uid=16699&did=7681a907c805e0670330c694e788e8e8&g=1&gm=1&platform=3
-#EXTINF:-1, BT Sport 2
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_OWw0MWZjcjFzZ21jbGVqfDE0NTI1NDg2MTl8ODYuNDYuMTk2LjgwfDU2OTJkMDhiNTU5ZmN8ZjQyMmIwMWRlNjJiYzNmMjMyM2YwNjhjMmExYTViOTQ4MjEwOGVkYQ..<playpath>9l41fcr1sgmclej <swfUrl>http://www.streamlive.to/ads/embed/player_ilive_embed.swf <pageUrl>http://www.streamlive.to/embedplayer_new2.php?width=700&height=480&channel=71632&autoplay=true
+
 http://live.pushpublish.tv/mylive/vbt2/playlist.m3u8
