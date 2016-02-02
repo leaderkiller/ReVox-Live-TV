@@ -32,8 +32,3 @@ http://217.23.15.222/disney_channel_gb.m3u8?user=62211&token=c4fab57d0923c2ce651
 #EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg"Disney Junior UK 
 http://217.23.15.222/disney_junior_gb.m3u8?user=62211&token=15f268b44bfd1208c678d72bb2c443da&e=1454531010&bands=956 
 
-#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg"ITV London 
-http://bit.do/bLeby
-
-#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg"Test
-rtmp://185.63.255.10:1935/liveedge/?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOToyNDowNiBQTSZoYXNoX3ZhbHVlPVJvQzZxRk96TXh5QkxEU1ViSXN3OXc9PSZ2YWxpZG1pbnV0ZXM9MTA=/ibrodtv21_6vhudlq8 swfUrl=http://otronivel.me/jw7/jwplayer.flash.swf flashver=WIN/2019,0,0,226 timeout=15 live=true swfVfy=1 pageUrl=http://miplayer.net/embedplayer.php?width=640&height=480&id=ibrodtv21&autoplay=true&strech=exactfit
