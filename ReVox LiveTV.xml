@@ -3,9 +3,6 @@
 http://217.23.15.222/animal_planet_gb.m3u8?user=62211&token=814c0379c71b18c12bf7ef661351904d&e=1454531010&bands=956
 
 #EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",Discovery UK 
-http://tinyurl.com/jrrux4a 
-
-#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",Discovery UK 
 http://217.23.15.222/discovery_gb.m3u8?user=62211&token=0495b8047b30876f4cebe405c6280925&e=1454531010&bands=956 
 
 
