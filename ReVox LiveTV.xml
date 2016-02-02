@@ -5,6 +5,34 @@ http://217.23.15.222/animal_planet_gb.m3u8?user=62211&token=814c0379c71b18c12bf7
 #EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",Discovery UK 
 http://217.23.15.222/discovery_gb.m3u8?user=62211&token=0495b8047b30876f4cebe405c6280925&e=1454531010&bands=956
 
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",At The Races UK 
+http://217.23.15.222/at_the_races_gb.m3u8?user=62211&token=dc576f756453d611065f077e989da02a&e=1454531010&bands=956 
 
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",BBC One HD 
+http://217.23.15.222/bbc_one_gb.m3u8?user=62211&token=028b8dcb050567df5d3ca883442cdb23&e=1454531010&bands=956 
+
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",BBC Two 
+http://217.23.15.222/bbc_two_eng_gb.m3u8?user=62211&token=b86aa3198adbd5f8fc0b9d27d26c25d4&e=1454531010&bands=956 
+
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",BT Sport 1 
+http://217.23.15.222/bt_sport1_gb.m3u8?user=62211&token=0f40b6b09a01a86578a999b09ebb194f&e=1454531010&bands=956 
+
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",BT Sport 2 
+http://217.23.15.222/bt_sport2_gb.m3u8?user=62211&token=823ed6e97f357b4ea835f0920d21418f&e=1454531010&bands=956 
+
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",BoxNation 
+http://217.23.15.222/boxnation_gb.m3u8?user=62211&token=a0a6259176263b7dba31cdbb9df3455f&e=1454531010&bands=956 
+
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg",Cartoon Network 
+http://217.23.15.222/cartoon_network_gb.m3u8?user=62211&token=0c6cf72a040899ea35ccaf7e0301ce8c&e=1454531010&bands=956 
+
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg"Disney Channel 
+http://217.23.15.222/disney_channel_gb.m3u8?user=62211&token=c4fab57d0923c2ce65186b4407648f2a&e=1454531010&bands=956 
+
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg"Disney Junior UK 
+http://217.23.15.222/disney_junior_gb.m3u8?user=62211&token=15f268b44bfd1208c678d72bb2c443da&e=1454531010&bands=956 
+
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/discovery-channel-logo-primary.jpg"ITV London 
+http://bit.do/bLeby
 
 
